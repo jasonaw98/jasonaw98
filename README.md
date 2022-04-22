@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Aw
 - 👀 I’m interested in Maching Learning, App and Web development and Blockchain 
-- 🌱 I’m currently learning DevOps, Flutter, CI/CD tools
+- 🌱 I’m currently learning Solidity, Rust, DeFi and blockchain 
 - 💞️ I’m looking to collaborate on App and Web development and AI
 - 📫 How to reach me ( Ping me at Git )
 
