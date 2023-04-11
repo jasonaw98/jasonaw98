@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on DeFi and Web development
 - 📫
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonaw98&label=Profile%20views&color=0e75b6&style=flat" alt="akhilathuluri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonaw98&label=Profile%20views&color=0e75b6&style=flat" alt="jasonaw98" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonaw98&show_icons=true&locale=en&layout=compact" alt="jasonaw98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonaw98&show_icons=true&locale=en" alt="jasonaw98" /></p>
 
 <!---
 jasonaw98/jasonaw98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
