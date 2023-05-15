@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Blockchain Developer
 --------------------
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jasonaw98&label=Profile%20views&color=0e75b6&style=flat" alt="jasonaw98" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jasonaw98" target="blank"><img src="https://img.shields.io/twitter/follow/jasonaw98?logo=twitter&style=for-the-badge" alt="jasonaw98" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jasonaw98" target="blank"><img src="https://img.shields.io/twitter/follow/jasonaw98?logo=twitter&style=for-the-badge" alt="jasonaw98" /></a> <img src="https://komarev.com/ghpvc/?username=jasonaw98&label=Profile%20views&color=0e75b6&style=flat" alt="jasonaw98" /> </p>
 
 I am a problem solver at heart and always strive to deliver solutions that are efficient, effective, and secure. Whether it's building decentralized applications or implementing blockchain solutions for enterprise clients, I am passionate about leveraging blockchain technology to transform industries and make a positive impact on the world.
 
@@ -55,11 +54,15 @@ I am a problem solver at heart and always strive to deliver solutions that are e
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jasonaw98"><img src="https://github-readme-stats.vercel.app/api?username=jasonaw98&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=10b981&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="jasonaw98's GitHub stats" /></a>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonaw98&show_icons=true&locale=en&layout=compact" alt="jasonaw98" /></p>
 
-<a href="http://www.github.com/jasonaw98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonaw98&stroke=10b981&background=181824&ring=a855f7&fire=a855f7&currStreakNum=10b981&currStreakLabel=a855f7&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+<a href="http://www.github.com/jasonaw98"><img src="https://github-readme-stats.vercel.app/api?username=jasonaw98&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=10b981&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="jasonaw98's GitHub stats" />  "       "        <img allign ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonaw98&stroke=10b981&background=181824&ring=a855f7&fire=a855f7&currStreakNum=10b981&currStreakLabel=a855f7&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 <a href="http://www.github.com/jasonaw98"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jasonaw98&bg_color=181824&color=10b981&line=a855f7&point=10b981&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+
 
 <!---
 jasonaw98/jasonaw98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
